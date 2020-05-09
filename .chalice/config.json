@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "app_name": "persona-fusion-planner",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
